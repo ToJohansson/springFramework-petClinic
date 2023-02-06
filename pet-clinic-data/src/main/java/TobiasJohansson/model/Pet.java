@@ -1,4 +1,4 @@
-package tobiasjohansson.springframeworkpetclinic.model;
+package TobiasJohansson.model;
 
 import java.time.LocalDate;
 

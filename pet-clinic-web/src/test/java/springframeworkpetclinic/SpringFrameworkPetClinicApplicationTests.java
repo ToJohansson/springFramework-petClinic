@@ -1,4 +1,4 @@
-package tobiasjohansson.springframeworkpetclinic;
+package springframeworkpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package tobiasjohansson.springframeworkpetclinic.model;
+package TobiasJohansson.model;
 
 public class Person {
 
